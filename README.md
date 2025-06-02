@@ -17,12 +17,6 @@ Este proyecto representa una solución **robusta y escalable** para una platafor
 - 🔁 *Procedimientos*: ventas completas, devoluciones con reembolso, facturación mensual y cancelación masiva de ventas.
 - 🔐 Gestión granular de roles: administrador, comprador, vendedor y usuario general.
 
-## 🔗 Scripts SQL disponibles en:
-
-> [📂 Ver archivo Big_Mercado_Libre.sql](https://github.com/tu_usuario/BD-MercadoLibre/blob/main/Big_Mercado_Libre.sql)
-
----
-
 ## 👨‍💻 Integrantes del Proyecto
 
 - **Rojas Luque Franco**
