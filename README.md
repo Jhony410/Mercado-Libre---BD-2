@@ -1,6 +1,8 @@
 # 🛒 MERCADO LIBRE - Sistema de Base de Datos Relacional
 
-Este proyecto representa una solución **robusta y escalable** para una plataforma de comercio electrónico, diseñada con un modelo de base de datos relacional normalizado hasta la **Tercera Forma Normal (3FN)**.
+Mercado Libre es una plataforma de comercio electrónico que conecta compradores y vendedores para facilitar la compra y venta de productos y servicios en línea. Además, incorpora funciones personalizadas, disparadores, procedimientos almacenados, índices y control de transacciones para mantener la consistencia y optimizar la operación ante un gran volumen de transacciones.
+Esta solución asegura una plataforma robusta y escalable, capaz de ofrecer una experiencia óptima al usuario y adaptarse al crecimiento del negocio.
+
 
 ## 🧠 Características Clave
 
